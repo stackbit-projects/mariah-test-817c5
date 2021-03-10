@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Oi, meu nome é Mariah pipipi popopo'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Lorem ipsum dolor sit amet
     actions:
       - label: Let's talk
         url: /contact
